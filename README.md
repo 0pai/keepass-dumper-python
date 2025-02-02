@@ -36,3 +36,6 @@ python3 keepass-dumper.py メモリダンプファイル [パスワードリス�
 
 ## ライセンス
 このツールは **オープンソース** ですが、利用時は責任を持って適切に使用してください。
+
+## HackTheBox Keeper Writeup
+https://note.com/kplus33/n/n4bfe79f3108a
